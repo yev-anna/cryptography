@@ -1,1 +1,1 @@
-# gcd
+# gcd and elliptic curves
